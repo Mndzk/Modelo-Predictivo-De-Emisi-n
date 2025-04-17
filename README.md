@@ -1,6 +1,6 @@
 📊 Predicción de Pólizas Emitidas con CatBoost
 
--Este proyecto tiene como objetivo predecir si una cotización de seguro se convertirá en una póliza emitida, utilizando datos reales extraídos desde una base de datos SQL corporativa. 
+-Este proyecto tiene como objetivo predecir si una cotización de seguro se convertirá en una póliza emitida, utilizando datos reales extraídos desde una base de datos SQL. 
 La solución implementada se apoya principalmente en el modelo CatBoostClassifier, el cual demostró un rendimiento excepcional frente a otros algoritmos tradicionales como Random Forest, XGBoost o LightGBM.
 
 🧠 ¿Por qué CatBoost?
